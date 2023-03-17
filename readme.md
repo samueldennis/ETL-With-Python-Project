@@ -1,0 +1,1 @@
+In this project, I collect data through APIs and webscraping and finally transforming the collected data into a ready-to-load format.
